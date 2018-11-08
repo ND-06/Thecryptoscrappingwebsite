@@ -1,24 +1,14 @@
-# README
+# The Crypto Scrapping Website
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This exercise has been made by myself and the support of my team (THP-Nice) in order to pratice scrapping in Ruby on Rails. 
+This exercise has been made with Postgresql, open-uri, nokogiri and has been published on Heroku.
 
-Things you may want to cover:
+Please, after cloning the repo, make a bundle install inside the folder, make a rails db:create, a rails db:migrate then launch the console ( rails c ) and type StartScrap.new.perform to launch the scrapping. 
 
-* Ruby version
+This scrapping has been build with www.coinmarketcap.com, a famous website which follows the values of all cryptocurrencies.
 
-* System dependencies
+Heroku Link : https://themoviesearcherwebsite.herokuapp.com/
 
-* Configuration
+Enjoy !
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
