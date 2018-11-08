@@ -7,7 +7,7 @@ Please, after cloning the repo, make a bundle install inside the folder, make a 
 
 This scrapping has been build with www.coinmarketcap.com, a famous website which follows the values of all cryptocurrencies.
 
-Heroku Link : https://themoviesearcherwebsite.herokuapp.com/
+Heroku Link : https://cryptoscrappingwebsite.herokuapp.com/
 
 Enjoy !
 
